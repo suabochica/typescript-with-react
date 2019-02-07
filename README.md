@@ -1,10 +1,8 @@
-#TypeScript with React
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the script version to enable TypeScript with the next command:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the script to scaffold a project with TypeScript.
-
-´´´
-create-react-app . --script-version=react-scripts-ts
-´´´
+```
+npx create-react-app my-app --typescript
+```
 
 ## Available Scripts
 
